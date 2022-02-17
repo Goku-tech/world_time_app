@@ -1,4 +1,4 @@
-# world_time_app
+# World_time_app
 
 This flutter application enables the user to view the time of a set of countries in the world.
 
