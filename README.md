@@ -1,16 +1,20 @@
 # world_time_app
 
-A new Flutter application.
+This flutter application enables the user to view the time of a set of countries in the world.
 
-## Getting Started
+It uses the world time api for fetching the world time data.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Home Page:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### This page displays the time of the location of our choice:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='assets/home_page.PNG'>
+
+<img src='assets/change_location.PNG'>
+
+## Change Location Page:
+
+### This page enables us to choose from a set of locations whose time we want to know:
+
+<img src='assets/home_page_2.PNG'>
